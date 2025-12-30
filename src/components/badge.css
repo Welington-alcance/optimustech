@@ -1,0 +1,11 @@
+.badge{
+    color: var(--color-primary);
+    font-size: var(--font-xs);
+    font-weight: 600;
+}
+
+.badge--bg{
+    background: var(--color-bg-badge);
+    border-radius: var(--radius-lg);
+    padding: var(--space-xs) var(--space-sm);
+}

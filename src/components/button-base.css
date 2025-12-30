@@ -1,0 +1,11 @@
+.btn-base{
+    background-color: var(--color-btn-bg);
+    padding: var(--space-sm) var(--space-md);
+    color: var(--color-white);
+    font-size: var(--font-sm);
+    border-radius: var(--radius-md);
+}
+
+.btn-base:hover{
+    opacity: 0.8;
+}

@@ -1,0 +1,20 @@
+.section__title{
+    font-size: var(--font-4xl);
+    font-weight: 600;
+}
+
+.section__title--xl{
+    font-size: var(--font-xl);
+}
+
+.section__title--2xl{
+    font-size: var(--font-2xl);
+}
+
+.section__title--3xl{
+    font-size: var(--font-3xl);
+}
+
+.section__title--400{
+    font-weight: 400;
+}

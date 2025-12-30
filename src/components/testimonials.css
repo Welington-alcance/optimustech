@@ -1,0 +1,20 @@
+.testimonials{
+    background: var(--color-bg-testimonials);
+    border-radius: var(--radius-xl);
+    padding: var(--space-3xl) 0;
+}
+
+.testimonials__img{
+    width: var(--space-2xl);
+    height: var(--space-2xl);
+}
+
+.testimonials__nome{
+    font-size: var(--font-sm);
+    font-weight: 600;
+}
+
+.testimonials__job{
+    font-size: var(--font-xs);
+    color: var(--black-second);
+}

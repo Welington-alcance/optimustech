@@ -1,0 +1,14 @@
+.jobs-card{
+    border: var(--border-md) solid var(--color-border-card);
+    padding: var(--space-md);
+    border-radius: var(--radius-md);
+}
+
+.jobs-card__title{
+    font-size: var(--font-md);
+}
+
+.jobs-card__p{
+    font-size: var(--font-sm);
+    color: var(--color-black-second);
+}

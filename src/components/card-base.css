@@ -1,0 +1,23 @@
+.card-base{
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+    max-width: 28rem;
+}
+
+.card-base__title{
+    font-size: var(--font-5xl);
+    color: var(--color-primary);
+    font-weight: 600;
+}
+
+.card-base__p{
+    font-size: var(--font-sm);
+    color: var(--color-black-second);
+}
+
+.card-base__p--strong{
+    font-size: var(--font-md);
+    font-weight: 600;
+    color: var(--color-black-first);
+}

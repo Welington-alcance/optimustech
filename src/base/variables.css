@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    font-family: "Inter", sans-serif;
+}
+
+:root{
+
+    /*<----------> COLOR <---------->*/
+    --color-primary: #8E2424;
+
+    /* colors blacks*/
+    --color-black-first: #000;
+    --color-black-second: #667085;
+
+    /* colors whites*/
+    --color-white: #fff;
+
+    --color-p: #98A2B3;
+
+    /* color background*/
+    --color-bg: #fff;
+    --color-bg-badge: rgba(142, 36, 36, 0.05);
+    --color-bg-testimonials: rgba(195,25,25, 0.03);
+    --color-bg-footer: #F9FAFB;
+
+    /* color btn*/
+    --color-btn-bg: #8E2424;
+
+    /* color border*/
+    --color-border: #000;
+    --color-border-card: #EAECF0;
+
+    /*<----------> fONT-SIZER <---------->*/
+    --font-xs: 1.2rem;
+    --font-sm: 1.4rem;
+    --font-md: 1.6rem;
+    --font-lg: 1.8rem;
+    --font-xl: 2.0rem;
+    /* Headings */
+    --font-2xl: 2.4rem;
+    --font-3xl: 3.2rem;
+    --font-4xl: 4.0rem;
+    --font-5xl: 4.8rem;
+    --font-6xl: 6.4rem;
+
+    /*<----------> SPACING <---------->*/
+    /* Escala baseada em múltiplos de 8 */
+
+    --space-xs: 0.4rem; /* 8/2 */
+    --space-sm: 0.8rem; /* 8*1 */
+    --space-md: 1.6rem; /* 8*2 */
+    --space-lg: 2.4rem; /* 8*3 */
+    --space-xl: 3.2rem; /* 8*4 */
+    
+    /*escala aumenta em (+16px / +1.6rem) */
+    --space-2xl: 4.8rem; /* +1.6rem */
+    --space-3xl: 6.4rem; /* +1.6rem */
+    --space-4xl: 8.0rem; /* +1.6rem */
+    --space-5xl: 9.6rem; /* +1.6rem */
+
+     /*<----------> SPACING THE CONTAINER <---------->*/
+     --container-xs: 74rem;
+     --container-sm: 96rem;
+     --container-md: 120rem;
+     --container-lg: 140rem; 
+
+     /*<----------> Border <---------->*/
+    --border-xs: 0.06rem; 
+    --border-sm: 0.08rem;
+    --border-md: 0.1rem;
+
+    /*<----------> Border-radius <---------->*/
+    --radius-none: 0;
+    --radius-xxs: 0.1rem;
+    --radius-xs: 0.2rem;  
+    --radius-sm: 0.4rem;  
+    --radius-md: 0.8rem;  
+    --radius-lg: 1.2rem;
+    --radius-xl: 1.6rem;
+    --radius-full: 9999px;
+
+    /*<----------> Margin <---------->*/
+    --margin-2xs: 0.4rem;
+    --margin-xs:  0.8rem;
+    --margin-sm:  1.6rem;
+    --margin-md:  2.4rem;
+    --margin-lg:  3.2rem;
+    --margin-xl:  4.8rem;
+    --margin-2xl: 6.4rem;
+    --margin-3xl: 9.6rem;
+}

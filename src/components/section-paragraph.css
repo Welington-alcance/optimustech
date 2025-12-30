@@ -1,0 +1,17 @@
+.section-p{
+    font-size: var(--font-sm);
+    color: var(--color-black-second);
+    max-width: var(--container-xs);
+}
+
+.section-p--color{
+    color: var(--color-p);
+}
+
+.section-p--xs{
+    font-size: var(--font-xs);
+}
+
+.section-p--md{
+    font-size: var(--font-md);
+}

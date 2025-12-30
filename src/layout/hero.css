@@ -1,0 +1,15 @@
+.hero{
+    background: var(--color-bg);
+    padding-top: var(--space-4xl);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-5xl);
+}
+
+.hero__text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: var(--space-md);
+}
